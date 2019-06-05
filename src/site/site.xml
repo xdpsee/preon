@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<project name="Preon">
+  <skin>
+    <groupId>org.codehaus.preon</groupId>
+    <artifactId>preon-skin</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </skin>
+
+  <body>
+
+    <menu name="Documentation">
+      <item name="Introduction"
+            href="http://www.scribd.com/doc/8128172/Preon-Introduction"/>
+      <item name="Under the Hood"
+            href="http://www.scribd.com/doc/7988375/Preon-Under-the-Hood"/>
+      <item name="J-Fall Slides"
+            href="http://www.slideshare.net/springerw/preon-jfall-2008-presentation-746831?type=powerpoint"/>
+      <item name="Getting Started"
+            href="getting-started.html"/>
+    </menu>
+
+    <menu name="Other">
+      <item name="Donations"
+            href="http://sourceforge.net/donate/index.php?group_id=241871"/>
+      <item name="Finding us"
+            href="find-us.html"/>
+    </menu>
+
+    <menu ref="modules"/>
+    <menu ref="reports"/>
+
+  </body>
+
+</project>
